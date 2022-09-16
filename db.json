@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "jenny Bond",
+      "email": "jenny@123",
+      "contact": 684452124,
+      "address": "Mumbai"
+    },
+    {
+      "name": "sonali",
+      "email": "sonali@gmail.com",
+      "contact": "08556621411",
+      "address": "surat",
+      "id": 3
+    },
+    {
+      "name": "Abhijit",
+      "email": "abhii@gmail.com",
+      "contact": "7854562561",
+      "address": "Indor",
+      "id": 5
+    },
+    {
+      "name": "Kasis",
+      "email": "kasis@gmail.com",
+      "contact": "896314551255",
+      "address": "kasis@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "test",
+      "email": "test123@gmail.com",
+      "contact": "8965231454",
+      "address": "Delhi",
+      "id": 7
+    }
+  ]
+}
